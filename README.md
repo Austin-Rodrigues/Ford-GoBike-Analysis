@@ -44,10 +44,10 @@ Here are the fields provided to us within the primary source data sets. We won't
 
 
 ## Key Insights for Presentation
- -Folks in their early 30's comprise the bulk of the rides.This one is the one that surprised me the most. Knowing that people as young as 18 can rent one of these bikes, I definitely expected to see the dataset to have a much stronger right skew. While a right skew does exist, isn't extreme given that people in their 30's tend to ride more often than people in their 20's or even in their teens.
+ - Folks in their early 30's comprise the bulk of the rides.This one is the one that surprised me the most. Knowing that people as young as 18 can rent one of these bikes, I definitely expected to see the dataset to have a much stronger right skew. While a right skew does exist, isn't extreme given that people in their 30's tend to ride more often than people in their 20's or even in their teens.
  
- -Gender has no real effect on ride duration. One might expect that males would be taking the longest rides, but the data doesn't indicate this at all. Across all ages, the differences between duration of male riders vs. female & other riders is negligible. In fact, it wasn't uncommon that females and those who marked their gender as "Other" would often ride longer than male riders.
+ - Gender has no real effect on ride duration. One might expect that males would be taking the longest rides, but the data doesn't indicate this at all. Across all ages, the differences between duration of male riders vs. female & other riders is negligible. In fact, it wasn't uncommon that females and those who marked their gender as "Other" would often ride longer than male riders.
  
- -The stations with the most trips are located in San Francisco and connect to public transportations including Caltrain, Bart and Ferry. User types play a key factor on the number of trips in each location and time group. 
+ - The stations with the most trips are located in San Francisco and connect to public transportations including Caltrain, Bart and Ferry. User types play a key factor on the number of trips in each location and time group. 
 
 Thus, collecting more information individually from these two user types is important for the future analysis.
